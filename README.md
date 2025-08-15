@@ -7,3 +7,6 @@ ToDo
 - [x] ニックネーム
 - [x] ランキング
 - [ ] 装飾
+
+python3 -m venv venv
+source venv/bin/activate
